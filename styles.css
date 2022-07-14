@@ -1,0 +1,28 @@
+body{
+   font-family:sans-serif;
+}
+h1{
+    color:purple;
+    background-color: rgb(247, 248, 248);;
+}
+
+h3{
+    color:white;
+}
+button{
+    background-color: aqua;
+    border-color:aliceblue;
+}
+
+.btn-container{
+    background-color: rgb(47, 45, 41);
+    width:500px;
+    height:1000px;
+    text-align:center;
+    position:absolute;
+    margin:auto;
+    right:0;
+    left:0;
+   
+    
+}
